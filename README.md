@@ -8,6 +8,8 @@
 图片
 <img width="910" height="941" alt="original-whale-girl" src="https://github.com/user-attachments/assets/0c0b462f-8341-4751-86df-857442eb8908" />
 
+<img width="512" height="512" alt="DeepSeekHarness-WhaleGirl-preview" src="https://github.com/user-attachments/assets/1e54f5d2-2faf-46b0-b6a0-b5da4e14f545" />
+
 
 - **一键直达**：双击即启动服务，并自动打开浏览器进入 UI，无需手动敲命令、无需自己开浏览器
 - **智能检测**：服务已在运行时不会重复启动，直接打开界面
