@@ -1,4 +1,3 @@
-<img width="191" height="215" alt="241a90e4e46322364a6545c3214889c8" src="https://github.com/user-attachments/assets/82650ba5-37a6-4a8e-b550-cc4e0e2c1d57" />
 # 🐋 DeepSeek Harness Launcher（鲸鱼少女版）
 
 一个 Windows 一键启动器：**双击图标 → 自动启动 DeepSeek Harness Web 服务 → 自动打开浏览器进入操作界面**。附赠鲸鱼少女主题图标。
@@ -6,7 +5,7 @@
 > DeepSeek Harness 的 Web 界面默认运行在 <http://127.0.0.1:3080>。
 
 ## ✨ 特性
-图片
+图片<img width="191" height="215" alt="241a90e4e46322364a6545c3214889c8" src="https://github.com/user-attachments/assets/82650ba5-37a6-4a8e-b550-cc4e0e2c1d57" />
 <img width="910" height="941" alt="original-whale-girl" src="https://github.com/user-attachments/assets/0c0b462f-8341-4751-86df-857442eb8908" />
 
 <img width="512" height="512" alt="DeepSeekHarness-WhaleGirl-preview" src="https://github.com/user-attachments/assets/1e54f5d2-2faf-46b0-b6a0-b5da4e14f545" />
