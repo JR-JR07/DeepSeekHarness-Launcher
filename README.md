@@ -1,3 +1,4 @@
+<img width="191" height="215" alt="241a90e4e46322364a6545c3214889c8" src="https://github.com/user-attachments/assets/82650ba5-37a6-4a8e-b550-cc4e0e2c1d57" />
 # 🐋 DeepSeek Harness Launcher（鲸鱼少女版）
 
 一个 Windows 一键启动器：**双击图标 → 自动启动 DeepSeek Harness Web 服务 → 自动打开浏览器进入操作界面**。附赠鲸鱼少女主题图标。
